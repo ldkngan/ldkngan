@@ -3,9 +3,9 @@
 My name is Kim Ngan. I’m currently learning Data Analytics.
 
 Skills
-- SQL
-- PowerBI
-- Python
+- SQL (BigQuery, PostgreSQL)
+- PowerBI (PowerQuery, Data Modeling, DAX, Visualization)
+- Python (NumPy, Pandas, Matplotlib, Seaborn)
 <!--
 **ldkngan/ldkngan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
