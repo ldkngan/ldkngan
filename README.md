@@ -17,6 +17,8 @@ I am currently developing my career in Data Analytics. I have a strong passion f
 ***
 
 🎓 Education & Certifications
-- Bachelor of Commercial Business – UEH University
+- Bachelor of Commercial Business – University of Economics Ho Chi Minh City (UEH) - GPA: 7.89/10
+- IC3 Certificate, TOEIC 835
+- SQL Intermediate Certificate - Hackerrank
+- Business Intelligence Fundamentals - Unigap
 - Data Analyst Coaching 1 on 1 Program - Unigap
-- IC3, TOEIC 835
