@@ -17,7 +17,7 @@ I am currently developing my career in **Data Analytics**. I have a strong passi
 
 ***
 
-### 📂 Featured Projects
+### 🚀 Featured Projects
 <a href="https://github.com/ldkngan/SQL_Ecommerce_Marketing_Analytics">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ldkngan&repo=SQL_Ecommerce_Marketing_Analytics&theme=vue-dark" />
