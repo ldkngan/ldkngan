@@ -1,6 +1,6 @@
 ## WELCOME TO MY PORTFOLIO 👋
 
-### 👩 About Me
+### About Me
 My name is **Le Dang Kim Ngan**.
 
 I am currently developing my career in **Data Analytics**. I have a strong passion for transforming data into meaningful insights and enjoy creating clear, intuitive dashboards that help support better decision-making.
@@ -9,7 +9,7 @@ I am currently developing my career in **Data Analytics**. I have a strong passi
 
 ***
 
-### 💻 Technical Skills
+### Technical Skills
 - **Excel/Google Sheets**: Automatic & Interactive Dashboard
 - **SQL**: BigQuery, PostgreSQL
 - **PowerBI**: PowerQuery, Data Modeling, DAX, Visualization
@@ -17,12 +17,11 @@ I am currently developing my career in **Data Analytics**. I have a strong passi
 
 ***
 
-### 🚀 Featured Projects
-
+### Featured Projects
 <a href="https://github.com/ldkngan/SQL_Ecommerce_Marketing_Analytics">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ldkngan&repo=SQL_Ecommerce_Marketing_Analytics&theme=vue-dark" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ldkngan&repo=SQL_Ecommerce_Marketing_Analytics&theme=vue-dark" />
+</a>    
 <a href="https://github.com/ldkngan/PowerBI_Global_Superstore_Market_Expansion_Strategy">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ldkngan&repo=PowerBI_Global_Superstore_Market_Expansion_Strategy&theme=vue-dark" />
@@ -37,12 +36,12 @@ I am currently developing my career in **Data Analytics**. I have a strong passi
 </a>
 <a href="https://github.com/ldkngan/Python_E-Wallet_Transaction_And_Payment_Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ldkngan&repo=Python_E-Wallet_Transaction_And_Payment_Analysis&theme=vue-dark" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ldkngan&repo=Python_E-Wallet_Transaction_And_Payment_Analysis&theme=vue-dark" />
+</a>    
 
 ***
 
-### 🎓 Education & Certifications
+### Education & Certifications
 - Bachelor of Commercial Business – University of Economics Ho Chi Minh City (UEH) - GPA: 7.89/10
 - IC3 Certificate, TOEIC 835
 - SQL Intermediate Certificate - Hackerrank
