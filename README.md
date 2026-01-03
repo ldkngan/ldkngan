@@ -24,15 +24,15 @@ I am currently developing my career in **Data Analytics**. I have a strong passi
 </a>    
 <a href="https://github.com/ldkngan/PowerBI_Global_Superstore_Market_Expansion_Strategy">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ldkngan&repo=PowerBI_Global_Superstore_Market_Expansion_Strategy&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ldkngan&repo=PowerBI_Global_Superstore_Market_Expansion_Strategy&theme=vue-dark" />
 </a>
 <a href="https://github.com/ldkngan/SQL_Bicycle_Manufacturer_Analytics">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ldkngan&repo=SQL_Bicycle_Manufacturer_Analytics&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ldkngan&repo=SQL_Bicycle_Manufacturer_Analytics&theme=vue-dark" />
 </a>
 <a href="https://github.com/ldkngan/Python_Customer_Segmentation_RFM">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ldkngan&repo=Python_Customer_Segmentation_RFM&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ldkngan&repo=Python_Customer_Segmentation_RFM&theme=vue-dark" />
 </a>
 <a href="https://github.com/ldkngan/Python_E-Wallet_Transaction_And_Payment_Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
