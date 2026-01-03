@@ -1,7 +1,7 @@
 ## WELCOME TO MY PORTFOLIO 👋
 
 ### About Me
-My name is **Le Dang Kim Ngan**.
+My name is **Lê Đặng Kim Ngân**.
 
 I am currently developing my career in **Data Analytics**. I have a strong passion for transforming data into meaningful insights and enjoy creating clear, intuitive dashboards that help support better decision-making.
 
