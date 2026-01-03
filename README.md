@@ -14,6 +14,7 @@ I am currently developing my career in **Data Analytics**. I have a strong passi
 - **SQL**: BigQuery, PostgreSQL
 - **PowerBI**: PowerQuery, Data Modeling, DAX, Visualization
 - **Python**: NumPy, Pandas, Matplotlib, Seaborn
+- **Machine Learning**: Supervised Learning, Unsupervised Learning
 
 ***
 
