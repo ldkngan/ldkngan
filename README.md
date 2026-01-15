@@ -31,9 +31,9 @@ I am currently developing my career in **Data Analytics**. I have a strong passi
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ldkngan&repo=SQL_Bicycle_Manufacturer_Sales_Analysis&theme=ayu-mirage" />
 </a>
-<a href="https://github.com/ldkngan/Python_Customer_Segmentation_RFM_Analysis">
+<a href="https://github.com/ldkngan/Python_Ecommerce_Customer_Segmentation_with_RFM_Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ldkngan&repo=Python_Customer_Segmentation_RFM_Analysis&theme=ayu-mirage" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ldkngan&repo=Python_Ecommerce_Customer_Segmentation_with_RFM_Analysiss&theme=ayu-mirage" />
 </a>
 <a href="https://github.com/ldkngan/Python_E-Wallet_Transaction_And_Payment_Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
